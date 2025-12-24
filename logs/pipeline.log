@@ -1,0 +1,96 @@
+2025-12-24 12:58:00,751 | INFO | PIPELINE | === PHASE 1: DATA EXTRACTION START ===
+2025-12-24 12:58:00,754 | INFO | root | Starting synthetic OAR data extraction
+2025-12-24 12:58:00,757 | INFO | root | Generating companies for Morocco
+2025-12-24 12:58:00,793 | INFO | root | Generating companies for Spain
+2025-12-24 12:58:00,864 | INFO | root | Generating companies for Portugal
+2025-12-24 12:58:00,929 | INFO | root | Generating companies for Italy
+2025-12-24 12:58:00,987 | INFO | root | Generating companies for France
+2025-12-24 12:58:01,046 | INFO | root | Generating companies for Greece
+2025-12-24 12:58:01,074 | INFO | root | Generating companies for Malta
+2025-12-24 12:58:01,116 | INFO | root | Total companies generated: 11998
+2025-12-24 12:58:01,369 | INFO | root | Dataset saved to C:\Myyy Files\ENIAD S9\supply-chain-traceability-oar\data\raw\oar_companies_raw.csv
+2025-12-24 12:58:01,400 | INFO | root | PHASE 1 — Data extraction completed successfully
+2025-12-24 12:58:01,448 | INFO | PIPELINE | === PHASE 1 COMPLETE ===
+
+2025-12-24 12:58:01,449 | INFO | PIPELINE | === PHASE 2: COMPANY CLEANING START ===
+2025-12-24 12:58:01,451 | INFO | p2_clean_companies | === PHASE 2: COMPANY CLEANING START ===
+2025-12-24 12:58:01,466 | INFO | p2_clean_companies | Loading raw data: data\raw\oar_companies_raw.csv
+2025-12-24 12:58:01,772 | INFO | p2_clean_companies | Loaded 11998 rows
+2025-12-24 12:58:01,784 | INFO | p2_clean_companies | Cleaning company records...
+2025-12-24 12:58:12,403 | INFO | p2_clean_companies | Unique companies after cleaning: 170
+2025-12-24 12:58:12,446 | INFO | p2_clean_companies | Saved cleaned CSV: data/processed/companies_cleaned_20251224_115812.csv
+2025-12-24 12:58:12,451 | INFO | p2_clean_companies | Saved cleaned JSON: data/processed/companies_cleaned_20251224_115812.json
+2025-12-24 12:58:12,452 | INFO | p2_clean_companies | === PHASE 2: COMPANY CLEANING COMPLETE ===
+2025-12-24 12:58:12,457 | INFO | PIPELINE | === PHASE 2 COMPLETE ===
+
+2025-12-24 12:58:12,497 | INFO | PIPELINE | === PHASE 3: FACILITY PROCESSING START ===
+2025-12-24 12:58:12,512 | INFO | p3_clean_facilities | === PHASE 3: FACILITY PROCESSING START ===
+2025-12-24 12:58:12,514 | INFO | p3_clean_facilities | Loading companies from data\processed\companies_cleaned_20251224_115812.csv
+2025-12-24 12:58:12,602 | INFO | p3_clean_facilities | Loaded 170 companies
+2025-12-24 12:58:12,604 | INFO | p3_clean_facilities | Generating facilities from company data...
+2025-12-24 12:58:12,669 | INFO | p3_clean_facilities | Generated 1068 facilities
+2025-12-24 12:58:12,683 | INFO | p3_clean_facilities | Generated 1068 company–facility links
+2025-12-24 12:58:12,723 | INFO | p3_clean_facilities | Facilities saved to data/processed/facilities_cleaned_20251224_115812.csv
+2025-12-24 12:58:12,727 | INFO | p3_clean_facilities | Company-facility links saved to data/processed/company_facilities_20251224_115812.csv
+2025-12-24 12:58:12,728 | INFO | p3_clean_facilities | === PHASE 3: FACILITY PROCESSING COMPLETE ===
+2025-12-24 12:58:12,730 | INFO | PIPELINE | === PHASE 3 COMPLETE ===
+
+2025-12-24 12:58:12,731 | INFO | PIPELINE | === PHASE 4: RELATIONAL STRUCTURING START ===
+2025-12-24 12:58:12,731 | INFO | p4_relational_builder | === PHASE 4: RELATIONAL STRUCTURING START ===
+2025-12-24 12:58:12,734 | INFO | p4_relational_builder | Loading relational datasets
+2025-12-24 12:58:12,855 | INFO | p4_relational_builder | Loaded 170 companies, 1068 facilities, 1068 links
+2025-12-24 12:58:12,866 | INFO | p4_relational_builder | Validating relational integrity
+2025-12-24 12:58:13,077 | INFO | p4_relational_builder |  Foreign keys valid
+2025-12-24 12:58:13,331 | INFO | p4_relational_builder |  No orphan records
+2025-12-24 12:58:13,499 | INFO | p4_relational_builder | Relational datasets saved
+2025-12-24 12:58:13,506 | INFO | p4_relational_builder | - data\relational\companies_20251224_115813.csv
+2025-12-24 12:58:13,509 | INFO | p4_relational_builder | - data\relational\facilities_20251224_115813.csv
+2025-12-24 12:58:13,510 | INFO | p4_relational_builder | - data\relational\company_facilities_20251224_115813.csv
+2025-12-24 12:58:13,524 | INFO | p4_relational_builder | === PHASE 4: RELATIONAL STRUCTURING COMPLETE ===
+2025-12-24 12:58:14,026 | INFO | PIPELINE | === PHASE 4 COMPLETE ===
+
+2025-12-24 12:58:14,027 | INFO | PIPELINE | === PHASE 5: ANALYTICS DASHBOARDS START ===
+2025-12-24 12:58:14,027 | INFO | p5_analytics_dashboards | ==================================================
+2025-12-24 12:58:14,068 | INFO | p5_analytics_dashboards | STARTING ANALYTICS PHASE
+2025-12-24 12:58:14,105 | INFO | p5_analytics_dashboards | ==================================================
+2025-12-24 12:58:14,147 | INFO | p5_analytics_dashboards | Loading companies: data/relational\companies_20251224_115813.csv
+2025-12-24 12:58:14,276 | INFO | p5_analytics_dashboards | Loading facilities: data/relational\facilities_20251224_115813.csv
+2025-12-24 12:58:14,344 | INFO | p5_analytics_dashboards | Loading links: data/relational\company_facilities_20251224_115813.csv
+2025-12-24 12:58:14,540 | INFO | p5_analytics_dashboards | Loaded 170 companies
+2025-12-24 12:58:14,552 | INFO | p5_analytics_dashboards | Loaded 1068 facilities
+2025-12-24 12:58:14,564 | INFO | p5_analytics_dashboards | Loaded 1068 company–facility links
+2025-12-24 12:58:16,144 | INFO | p5_analytics_dashboards | Saved chart: data/analytics\companies_by_country.png
+2025-12-24 12:58:17,127 | INFO | p5_analytics_dashboards | Saved chart: data/analytics\facilities_per_company.png
+2025-12-24 12:58:17,132 | INFO | p5_analytics_dashboards | ==================================================
+2025-12-24 12:58:17,132 | INFO | p5_analytics_dashboards | ANALYTICS PHASE COMPLETED SUCCESSFULLY
+2025-12-24 12:58:17,133 | INFO | p5_analytics_dashboards | ==================================================
+2025-12-24 12:58:17,134 | INFO | PIPELINE | === PHASE 5 COMPLETE ===
+
+2025-12-24 12:58:17,135 | INFO | PIPELINE | === PHASE 6: AI DUPLICATE DETECTION START ===
+2025-12-24 12:58:17,140 | INFO | sentence_transformers.SentenceTransformer | Use pytorch device_name: cpu
+2025-12-24 12:58:17,141 | INFO | sentence_transformers.SentenceTransformer | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 12:58:21,647 | INFO | p6_ai_module | === PHASE 6: DUPLICATE DETECTION START ===
+2025-12-24 12:58:21,649 | INFO | p6_ai_module | Loading company data: data\processed\companies_cleaned_20251224_115812.csv
+2025-12-24 12:58:21,653 | INFO | p6_ai_module | Loaded 170 companies
+2025-12-24 12:58:21,660 | INFO | p6_ai_module | Sampled 30 companies for duplicate detection
+2025-12-24 12:58:21,664 | INFO | p6_ai_module | Computing embeddings for duplicate detection...
+2025-12-24 12:58:23,224 | INFO | p6_ai_module | Calculating pairwise similarities...
+2025-12-24 12:58:23,256 | INFO | p6_ai_module | Detected 82 potential duplicates
+2025-12-24 12:58:23,269 | INFO | p6_ai_module | Duplicate results saved: data\ai\duplicate_companies_20251224_115823.csv
+2025-12-24 12:58:23,276 | INFO | p6_ai_module | Duplicate results saved: data\ai\duplicate_companies_20251224_115823.json
+2025-12-24 12:58:23,277 | INFO | p6_ai_module | === PHASE 6: DUPLICATE DETECTION COMPLETE ===
+2025-12-24 12:58:23,309 | INFO | PIPELINE | === PHASE 6 COMPLETE ===
+
+2025-12-24 12:58:23,350 | INFO | PIPELINE | === PHASE 7: FINAL EXPORT START ===
+2025-12-24 12:58:23,375 | INFO | p7_export_final | === PHASE 7: FINAL EXPORT START ===
+2025-12-24 12:58:23,421 | INFO | p7_export_final | Loaded 170 companies, 1068 facilities, 1068 company–facility links
+2025-12-24 12:58:23,490 | INFO | p7_export_final | Loaded AI results: 82 rows
+2025-12-24 12:58:23,493 | INFO | p7_export_final | Summary statistics computed:
+2025-12-24 12:58:23,494 | INFO | p7_export_final | - total_companies: 170
+2025-12-24 12:58:23,495 | INFO | p7_export_final | - total_facilities: 1068
+2025-12-24 12:58:23,515 | INFO | p7_export_final | - average_facilities_per_company: 6.28
+2025-12-24 12:58:23,560 | INFO | p7_export_final | Final datasets and summary statistics exported to data/final
+2025-12-24 12:58:23,563 | INFO | p7_export_final | === PHASE 7: FINAL EXPORT COMPLETE ===
+2025-12-24 12:58:23,564 | INFO | PIPELINE | === PHASE 7 COMPLETE ===
+
+2025-12-24 12:58:23,565 | INFO | PIPELINE | === PIPELINE EXECUTED SUCCESSFULLY ===

@@ -1,0 +1,576 @@
+[
+  {
+    "company_1_id":"CMP_90B9C1225A",
+    "company_1_name":"Greece Industrial 9336",
+    "company_2_id":"CMP_80EE69C006",
+    "company_2_name":"Spain Industrial 2999",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_90B9C1225A",
+    "company_1_name":"Greece Industrial 9336",
+    "company_2_id":"CMP_82D15EB995",
+    "company_2_name":"France Industrial 7465 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_90B9C1225A",
+    "company_1_name":"Greece Industrial 9336",
+    "company_2_id":"CMP_D34342A5EA",
+    "company_2_name":"Spain Industrial 1819 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_90B9C1225A",
+    "company_1_name":"Greece Industrial 9336",
+    "company_2_id":"CMP_2DB2B7E9A2",
+    "company_2_name":"France Industrial 7118 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_90B9C1225A",
+    "company_1_name":"Greece Industrial 9336",
+    "company_2_id":"CMP_262401E4D3",
+    "company_2_name":"Italy Industrial 5777",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_80EE69C006",
+    "company_1_name":"Spain Industrial 2999",
+    "company_2_id":"CMP_82D15EB995",
+    "company_2_name":"France Industrial 7465 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_80EE69C006",
+    "company_1_name":"Spain Industrial 2999",
+    "company_2_id":"CMP_D34342A5EA",
+    "company_2_name":"Spain Industrial 1819 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_80EE69C006",
+    "company_1_name":"Spain Industrial 2999",
+    "company_2_id":"CMP_2DB2B7E9A2",
+    "company_2_name":"France Industrial 7118 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_80EE69C006",
+    "company_1_name":"Spain Industrial 2999",
+    "company_2_id":"CMP_262401E4D3",
+    "company_2_name":"Italy Industrial 5777",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_06A74EC5DC",
+    "company_1_name":"France Industrial 8554 Spa",
+    "company_2_id":"CMP_C7D09EDD93",
+    "company_2_name":"Spain Industrial 2888",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_06A74EC5DC",
+    "company_1_name":"France Industrial 8554 Spa",
+    "company_2_id":"CMP_D5FB415A5B",
+    "company_2_name":"France Industrial 7799 Lda",
+    "similarity":0.913
+  },
+  {
+    "company_1_id":"CMP_06A74EC5DC",
+    "company_1_name":"France Industrial 8554 Spa",
+    "company_2_id":"CMP_8348CD49CF",
+    "company_2_name":"Spain Industrial 3000 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_06A74EC5DC",
+    "company_1_name":"France Industrial 8554 Spa",
+    "company_2_id":"CMP_0AD90D3AF3",
+    "company_2_name":"Spain Industrial 1716 Lda",
+    "similarity":0.913
+  },
+  {
+    "company_1_id":"CMP_06A74EC5DC",
+    "company_1_name":"France Industrial 8554 Spa",
+    "company_2_id":"CMP_445DA9B438",
+    "company_2_name":"Italy Industrial 6168 Lda",
+    "similarity":0.913
+  },
+  {
+    "company_1_id":"CMP_C7D09EDD93",
+    "company_1_name":"Spain Industrial 2888",
+    "company_2_id":"CMP_D5FB415A5B",
+    "company_2_name":"France Industrial 7799 Lda",
+    "similarity":0.913
+  },
+  {
+    "company_1_id":"CMP_C7D09EDD93",
+    "company_1_name":"Spain Industrial 2888",
+    "company_2_id":"CMP_8348CD49CF",
+    "company_2_name":"Spain Industrial 3000 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_C7D09EDD93",
+    "company_1_name":"Spain Industrial 2888",
+    "company_2_id":"CMP_0AD90D3AF3",
+    "company_2_name":"Spain Industrial 1716 Lda",
+    "similarity":0.913
+  },
+  {
+    "company_1_id":"CMP_C7D09EDD93",
+    "company_1_name":"Spain Industrial 2888",
+    "company_2_id":"CMP_445DA9B438",
+    "company_2_name":"Italy Industrial 6168 Lda",
+    "similarity":0.913
+  },
+  {
+    "company_1_id":"CMP_BC33D16BA6",
+    "company_1_name":"Greece Industrial 10111 Lda",
+    "company_2_id":"CMP_4C2DBE0B72",
+    "company_2_name":"Malta Industrial 11455",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_BC33D16BA6",
+    "company_1_name":"Greece Industrial 10111 Lda",
+    "company_2_id":"CMP_FD9F9D4A42",
+    "company_2_name":"Portugal Industrial 4009 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_BC33D16BA6",
+    "company_1_name":"Greece Industrial 10111 Lda",
+    "company_2_id":"CMP_4FDEBF3B42",
+    "company_2_name":"Malta Industrial 11087 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_BC33D16BA6",
+    "company_1_name":"Greece Industrial 10111 Lda",
+    "company_2_id":"CMP_C97E0CA45E",
+    "company_2_name":"Greece Industrial 9222 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_BC33D16BA6",
+    "company_1_name":"Greece Industrial 10111 Lda",
+    "company_2_id":"CMP_7BA1D85352",
+    "company_2_name":"Italy Industrial 6334 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_BC33D16BA6",
+    "company_1_name":"Greece Industrial 10111 Lda",
+    "company_2_id":"CMP_716066134F",
+    "company_2_name":"Spain Industrial 2666",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_BC33D16BA6",
+    "company_1_name":"Greece Industrial 10111 Lda",
+    "company_2_id":"CMP_2BC52CE864",
+    "company_2_name":"Spain Industrial 2013",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_1FAC9671A3",
+    "company_1_name":"Malta Industrial 11223",
+    "company_2_id":"CMP_4E8359AF2D",
+    "company_2_name":"Spain Industrial 1945 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_1FAC9671A3",
+    "company_1_name":"Malta Industrial 11223",
+    "company_2_id":"CMP_4A526EDD2B",
+    "company_2_name":"France Industrial 7777",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_4C2DBE0B72",
+    "company_1_name":"Malta Industrial 11455",
+    "company_2_id":"CMP_FD9F9D4A42",
+    "company_2_name":"Portugal Industrial 4009 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_4C2DBE0B72",
+    "company_1_name":"Malta Industrial 11455",
+    "company_2_id":"CMP_4FDEBF3B42",
+    "company_2_name":"Malta Industrial 11087 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_4C2DBE0B72",
+    "company_1_name":"Malta Industrial 11455",
+    "company_2_id":"CMP_C97E0CA45E",
+    "company_2_name":"Greece Industrial 9222 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_4C2DBE0B72",
+    "company_1_name":"Malta Industrial 11455",
+    "company_2_id":"CMP_7BA1D85352",
+    "company_2_name":"Italy Industrial 6334 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_4C2DBE0B72",
+    "company_1_name":"Malta Industrial 11455",
+    "company_2_id":"CMP_716066134F",
+    "company_2_name":"Spain Industrial 2666",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_4C2DBE0B72",
+    "company_1_name":"Malta Industrial 11455",
+    "company_2_id":"CMP_2BC52CE864",
+    "company_2_name":"Spain Industrial 2013",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_FD9F9D4A42",
+    "company_1_name":"Portugal Industrial 4009 Spa",
+    "company_2_id":"CMP_4FDEBF3B42",
+    "company_2_name":"Malta Industrial 11087 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_FD9F9D4A42",
+    "company_1_name":"Portugal Industrial 4009 Spa",
+    "company_2_id":"CMP_C97E0CA45E",
+    "company_2_name":"Greece Industrial 9222 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_FD9F9D4A42",
+    "company_1_name":"Portugal Industrial 4009 Spa",
+    "company_2_id":"CMP_7BA1D85352",
+    "company_2_name":"Italy Industrial 6334 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_FD9F9D4A42",
+    "company_1_name":"Portugal Industrial 4009 Spa",
+    "company_2_id":"CMP_716066134F",
+    "company_2_name":"Spain Industrial 2666",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_FD9F9D4A42",
+    "company_1_name":"Portugal Industrial 4009 Spa",
+    "company_2_id":"CMP_2BC52CE864",
+    "company_2_name":"Spain Industrial 2013",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_82D15EB995",
+    "company_1_name":"France Industrial 7465 Spa",
+    "company_2_id":"CMP_D34342A5EA",
+    "company_2_name":"Spain Industrial 1819 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_82D15EB995",
+    "company_1_name":"France Industrial 7465 Spa",
+    "company_2_id":"CMP_2DB2B7E9A2",
+    "company_2_name":"France Industrial 7118 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_82D15EB995",
+    "company_1_name":"France Industrial 7465 Spa",
+    "company_2_id":"CMP_262401E4D3",
+    "company_2_name":"Italy Industrial 5777",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_DC0BC952E8",
+    "company_1_name":"Portugal Industrial 4878",
+    "company_2_id":"CMP_F8FE6E3069",
+    "company_2_name":"Portugal Industrial 3613",
+    "similarity":0.864
+  },
+  {
+    "company_1_id":"CMP_DC0BC952E8",
+    "company_1_name":"Portugal Industrial 4878",
+    "company_2_id":"CMP_19B6ABB7C9",
+    "company_2_name":"Italy Industrial 5208 Lda",
+    "similarity":0.864
+  },
+  {
+    "company_1_id":"CMP_DC0BC952E8",
+    "company_1_name":"Portugal Industrial 4878",
+    "company_2_id":"CMP_8927502BBB",
+    "company_2_name":"Italy Industrial 5666",
+    "similarity":0.864
+  },
+  {
+    "company_1_id":"CMP_DC0BC952E8",
+    "company_1_name":"Portugal Industrial 4878",
+    "company_2_id":"CMP_1C7A698CF5",
+    "company_2_name":"Spain Industrial 2354 Lda",
+    "similarity":0.864
+  },
+  {
+    "company_1_id":"CMP_DC0BC952E8",
+    "company_1_name":"Portugal Industrial 4878",
+    "company_2_id":"CMP_A4DAD80AE6",
+    "company_2_name":"Spain Industrial 2221 Lda",
+    "similarity":0.864
+  },
+  {
+    "company_1_id":"CMP_DC0BC952E8",
+    "company_1_name":"Portugal Industrial 4878",
+    "company_2_id":"CMP_6CD4B45F3C",
+    "company_2_name":"Portugal Industrial 4266 Lda",
+    "similarity":0.864
+  },
+  {
+    "company_1_id":"CMP_4E8359AF2D",
+    "company_1_name":"Spain Industrial 1945 Lda",
+    "company_2_id":"CMP_4A526EDD2B",
+    "company_2_name":"France Industrial 7777",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_4FDEBF3B42",
+    "company_1_name":"Malta Industrial 11087 Spa",
+    "company_2_id":"CMP_C97E0CA45E",
+    "company_2_name":"Greece Industrial 9222 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_4FDEBF3B42",
+    "company_1_name":"Malta Industrial 11087 Spa",
+    "company_2_id":"CMP_7BA1D85352",
+    "company_2_name":"Italy Industrial 6334 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_4FDEBF3B42",
+    "company_1_name":"Malta Industrial 11087 Spa",
+    "company_2_id":"CMP_716066134F",
+    "company_2_name":"Spain Industrial 2666",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_4FDEBF3B42",
+    "company_1_name":"Malta Industrial 11087 Spa",
+    "company_2_id":"CMP_2BC52CE864",
+    "company_2_name":"Spain Industrial 2013",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_C97E0CA45E",
+    "company_1_name":"Greece Industrial 9222 Spa",
+    "company_2_id":"CMP_7BA1D85352",
+    "company_2_name":"Italy Industrial 6334 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_C97E0CA45E",
+    "company_1_name":"Greece Industrial 9222 Spa",
+    "company_2_id":"CMP_716066134F",
+    "company_2_name":"Spain Industrial 2666",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_C97E0CA45E",
+    "company_1_name":"Greece Industrial 9222 Spa",
+    "company_2_id":"CMP_2BC52CE864",
+    "company_2_name":"Spain Industrial 2013",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_F8FE6E3069",
+    "company_1_name":"Portugal Industrial 3613",
+    "company_2_id":"CMP_19B6ABB7C9",
+    "company_2_name":"Italy Industrial 5208 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_F8FE6E3069",
+    "company_1_name":"Portugal Industrial 3613",
+    "company_2_id":"CMP_8927502BBB",
+    "company_2_name":"Italy Industrial 5666",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_F8FE6E3069",
+    "company_1_name":"Portugal Industrial 3613",
+    "company_2_id":"CMP_1C7A698CF5",
+    "company_2_name":"Spain Industrial 2354 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_F8FE6E3069",
+    "company_1_name":"Portugal Industrial 3613",
+    "company_2_id":"CMP_A4DAD80AE6",
+    "company_2_name":"Spain Industrial 2221 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_F8FE6E3069",
+    "company_1_name":"Portugal Industrial 3613",
+    "company_2_id":"CMP_6CD4B45F3C",
+    "company_2_name":"Portugal Industrial 4266 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_19B6ABB7C9",
+    "company_1_name":"Italy Industrial 5208 Lda",
+    "company_2_id":"CMP_8927502BBB",
+    "company_2_name":"Italy Industrial 5666",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_19B6ABB7C9",
+    "company_1_name":"Italy Industrial 5208 Lda",
+    "company_2_id":"CMP_1C7A698CF5",
+    "company_2_name":"Spain Industrial 2354 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_19B6ABB7C9",
+    "company_1_name":"Italy Industrial 5208 Lda",
+    "company_2_id":"CMP_A4DAD80AE6",
+    "company_2_name":"Spain Industrial 2221 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_19B6ABB7C9",
+    "company_1_name":"Italy Industrial 5208 Lda",
+    "company_2_id":"CMP_6CD4B45F3C",
+    "company_2_name":"Portugal Industrial 4266 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_7BA1D85352",
+    "company_1_name":"Italy Industrial 6334 Spa",
+    "company_2_id":"CMP_716066134F",
+    "company_2_name":"Spain Industrial 2666",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_7BA1D85352",
+    "company_1_name":"Italy Industrial 6334 Spa",
+    "company_2_id":"CMP_2BC52CE864",
+    "company_2_name":"Spain Industrial 2013",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_716066134F",
+    "company_1_name":"Spain Industrial 2666",
+    "company_2_id":"CMP_2BC52CE864",
+    "company_2_name":"Spain Industrial 2013",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_D5FB415A5B",
+    "company_1_name":"France Industrial 7799 Lda",
+    "company_2_id":"CMP_8348CD49CF",
+    "company_2_name":"Spain Industrial 3000 Spa",
+    "similarity":0.913
+  },
+  {
+    "company_1_id":"CMP_D5FB415A5B",
+    "company_1_name":"France Industrial 7799 Lda",
+    "company_2_id":"CMP_0AD90D3AF3",
+    "company_2_name":"Spain Industrial 1716 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_D5FB415A5B",
+    "company_1_name":"France Industrial 7799 Lda",
+    "company_2_id":"CMP_445DA9B438",
+    "company_2_name":"Italy Industrial 6168 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_8927502BBB",
+    "company_1_name":"Italy Industrial 5666",
+    "company_2_id":"CMP_1C7A698CF5",
+    "company_2_name":"Spain Industrial 2354 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_8927502BBB",
+    "company_1_name":"Italy Industrial 5666",
+    "company_2_id":"CMP_A4DAD80AE6",
+    "company_2_name":"Spain Industrial 2221 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_8927502BBB",
+    "company_1_name":"Italy Industrial 5666",
+    "company_2_id":"CMP_6CD4B45F3C",
+    "company_2_name":"Portugal Industrial 4266 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_1C7A698CF5",
+    "company_1_name":"Spain Industrial 2354 Lda",
+    "company_2_id":"CMP_A4DAD80AE6",
+    "company_2_name":"Spain Industrial 2221 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_1C7A698CF5",
+    "company_1_name":"Spain Industrial 2354 Lda",
+    "company_2_id":"CMP_6CD4B45F3C",
+    "company_2_name":"Portugal Industrial 4266 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_8348CD49CF",
+    "company_1_name":"Spain Industrial 3000 Spa",
+    "company_2_id":"CMP_0AD90D3AF3",
+    "company_2_name":"Spain Industrial 1716 Lda",
+    "similarity":0.913
+  },
+  {
+    "company_1_id":"CMP_8348CD49CF",
+    "company_1_name":"Spain Industrial 3000 Spa",
+    "company_2_id":"CMP_445DA9B438",
+    "company_2_name":"Italy Industrial 6168 Lda",
+    "similarity":0.913
+  },
+  {
+    "company_1_id":"CMP_A4DAD80AE6",
+    "company_1_name":"Spain Industrial 2221 Lda",
+    "company_2_id":"CMP_6CD4B45F3C",
+    "company_2_name":"Portugal Industrial 4266 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_D34342A5EA",
+    "company_1_name":"Spain Industrial 1819 Spa",
+    "company_2_id":"CMP_2DB2B7E9A2",
+    "company_2_name":"France Industrial 7118 Spa",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_D34342A5EA",
+    "company_1_name":"Spain Industrial 1819 Spa",
+    "company_2_id":"CMP_262401E4D3",
+    "company_2_name":"Italy Industrial 5777",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_0AD90D3AF3",
+    "company_1_name":"Spain Industrial 1716 Lda",
+    "company_2_id":"CMP_445DA9B438",
+    "company_2_name":"Italy Industrial 6168 Lda",
+    "similarity":1.0
+  },
+  {
+    "company_1_id":"CMP_2DB2B7E9A2",
+    "company_1_name":"France Industrial 7118 Spa",
+    "company_2_id":"CMP_262401E4D3",
+    "company_2_name":"Italy Industrial 5777",
+    "similarity":1.0
+  }
+]

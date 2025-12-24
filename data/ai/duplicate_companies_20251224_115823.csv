@@ -1,0 +1,83 @@
+company_1_id,company_1_name,company_2_id,company_2_name,similarity
+CMP_90B9C1225A,Greece Industrial 9336,CMP_80EE69C006,Spain Industrial 2999,1.0
+CMP_90B9C1225A,Greece Industrial 9336,CMP_82D15EB995,France Industrial 7465 Spa,1.0
+CMP_90B9C1225A,Greece Industrial 9336,CMP_D34342A5EA,Spain Industrial 1819 Spa,1.0
+CMP_90B9C1225A,Greece Industrial 9336,CMP_2DB2B7E9A2,France Industrial 7118 Spa,1.0
+CMP_90B9C1225A,Greece Industrial 9336,CMP_262401E4D3,Italy Industrial 5777,1.0
+CMP_80EE69C006,Spain Industrial 2999,CMP_82D15EB995,France Industrial 7465 Spa,1.0
+CMP_80EE69C006,Spain Industrial 2999,CMP_D34342A5EA,Spain Industrial 1819 Spa,1.0
+CMP_80EE69C006,Spain Industrial 2999,CMP_2DB2B7E9A2,France Industrial 7118 Spa,1.0
+CMP_80EE69C006,Spain Industrial 2999,CMP_262401E4D3,Italy Industrial 5777,1.0
+CMP_06A74EC5DC,France Industrial 8554 Spa,CMP_C7D09EDD93,Spain Industrial 2888,1.0
+CMP_06A74EC5DC,France Industrial 8554 Spa,CMP_D5FB415A5B,France Industrial 7799 Lda,0.913
+CMP_06A74EC5DC,France Industrial 8554 Spa,CMP_8348CD49CF,Spain Industrial 3000 Spa,1.0
+CMP_06A74EC5DC,France Industrial 8554 Spa,CMP_0AD90D3AF3,Spain Industrial 1716 Lda,0.913
+CMP_06A74EC5DC,France Industrial 8554 Spa,CMP_445DA9B438,Italy Industrial 6168 Lda,0.913
+CMP_C7D09EDD93,Spain Industrial 2888,CMP_D5FB415A5B,France Industrial 7799 Lda,0.913
+CMP_C7D09EDD93,Spain Industrial 2888,CMP_8348CD49CF,Spain Industrial 3000 Spa,1.0
+CMP_C7D09EDD93,Spain Industrial 2888,CMP_0AD90D3AF3,Spain Industrial 1716 Lda,0.913
+CMP_C7D09EDD93,Spain Industrial 2888,CMP_445DA9B438,Italy Industrial 6168 Lda,0.913
+CMP_BC33D16BA6,Greece Industrial 10111 Lda,CMP_4C2DBE0B72,Malta Industrial 11455,1.0
+CMP_BC33D16BA6,Greece Industrial 10111 Lda,CMP_FD9F9D4A42,Portugal Industrial 4009 Spa,1.0
+CMP_BC33D16BA6,Greece Industrial 10111 Lda,CMP_4FDEBF3B42,Malta Industrial 11087 Spa,1.0
+CMP_BC33D16BA6,Greece Industrial 10111 Lda,CMP_C97E0CA45E,Greece Industrial 9222 Spa,1.0
+CMP_BC33D16BA6,Greece Industrial 10111 Lda,CMP_7BA1D85352,Italy Industrial 6334 Spa,1.0
+CMP_BC33D16BA6,Greece Industrial 10111 Lda,CMP_716066134F,Spain Industrial 2666,1.0
+CMP_BC33D16BA6,Greece Industrial 10111 Lda,CMP_2BC52CE864,Spain Industrial 2013,1.0
+CMP_1FAC9671A3,Malta Industrial 11223,CMP_4E8359AF2D,Spain Industrial 1945 Lda,1.0
+CMP_1FAC9671A3,Malta Industrial 11223,CMP_4A526EDD2B,France Industrial 7777,1.0
+CMP_4C2DBE0B72,Malta Industrial 11455,CMP_FD9F9D4A42,Portugal Industrial 4009 Spa,1.0
+CMP_4C2DBE0B72,Malta Industrial 11455,CMP_4FDEBF3B42,Malta Industrial 11087 Spa,1.0
+CMP_4C2DBE0B72,Malta Industrial 11455,CMP_C97E0CA45E,Greece Industrial 9222 Spa,1.0
+CMP_4C2DBE0B72,Malta Industrial 11455,CMP_7BA1D85352,Italy Industrial 6334 Spa,1.0
+CMP_4C2DBE0B72,Malta Industrial 11455,CMP_716066134F,Spain Industrial 2666,1.0
+CMP_4C2DBE0B72,Malta Industrial 11455,CMP_2BC52CE864,Spain Industrial 2013,1.0
+CMP_FD9F9D4A42,Portugal Industrial 4009 Spa,CMP_4FDEBF3B42,Malta Industrial 11087 Spa,1.0
+CMP_FD9F9D4A42,Portugal Industrial 4009 Spa,CMP_C97E0CA45E,Greece Industrial 9222 Spa,1.0
+CMP_FD9F9D4A42,Portugal Industrial 4009 Spa,CMP_7BA1D85352,Italy Industrial 6334 Spa,1.0
+CMP_FD9F9D4A42,Portugal Industrial 4009 Spa,CMP_716066134F,Spain Industrial 2666,1.0
+CMP_FD9F9D4A42,Portugal Industrial 4009 Spa,CMP_2BC52CE864,Spain Industrial 2013,1.0
+CMP_82D15EB995,France Industrial 7465 Spa,CMP_D34342A5EA,Spain Industrial 1819 Spa,1.0
+CMP_82D15EB995,France Industrial 7465 Spa,CMP_2DB2B7E9A2,France Industrial 7118 Spa,1.0
+CMP_82D15EB995,France Industrial 7465 Spa,CMP_262401E4D3,Italy Industrial 5777,1.0
+CMP_DC0BC952E8,Portugal Industrial 4878,CMP_F8FE6E3069,Portugal Industrial 3613,0.864
+CMP_DC0BC952E8,Portugal Industrial 4878,CMP_19B6ABB7C9,Italy Industrial 5208 Lda,0.864
+CMP_DC0BC952E8,Portugal Industrial 4878,CMP_8927502BBB,Italy Industrial 5666,0.864
+CMP_DC0BC952E8,Portugal Industrial 4878,CMP_1C7A698CF5,Spain Industrial 2354 Lda,0.864
+CMP_DC0BC952E8,Portugal Industrial 4878,CMP_A4DAD80AE6,Spain Industrial 2221 Lda,0.864
+CMP_DC0BC952E8,Portugal Industrial 4878,CMP_6CD4B45F3C,Portugal Industrial 4266 Lda,0.864
+CMP_4E8359AF2D,Spain Industrial 1945 Lda,CMP_4A526EDD2B,France Industrial 7777,1.0
+CMP_4FDEBF3B42,Malta Industrial 11087 Spa,CMP_C97E0CA45E,Greece Industrial 9222 Spa,1.0
+CMP_4FDEBF3B42,Malta Industrial 11087 Spa,CMP_7BA1D85352,Italy Industrial 6334 Spa,1.0
+CMP_4FDEBF3B42,Malta Industrial 11087 Spa,CMP_716066134F,Spain Industrial 2666,1.0
+CMP_4FDEBF3B42,Malta Industrial 11087 Spa,CMP_2BC52CE864,Spain Industrial 2013,1.0
+CMP_C97E0CA45E,Greece Industrial 9222 Spa,CMP_7BA1D85352,Italy Industrial 6334 Spa,1.0
+CMP_C97E0CA45E,Greece Industrial 9222 Spa,CMP_716066134F,Spain Industrial 2666,1.0
+CMP_C97E0CA45E,Greece Industrial 9222 Spa,CMP_2BC52CE864,Spain Industrial 2013,1.0
+CMP_F8FE6E3069,Portugal Industrial 3613,CMP_19B6ABB7C9,Italy Industrial 5208 Lda,1.0
+CMP_F8FE6E3069,Portugal Industrial 3613,CMP_8927502BBB,Italy Industrial 5666,1.0
+CMP_F8FE6E3069,Portugal Industrial 3613,CMP_1C7A698CF5,Spain Industrial 2354 Lda,1.0
+CMP_F8FE6E3069,Portugal Industrial 3613,CMP_A4DAD80AE6,Spain Industrial 2221 Lda,1.0
+CMP_F8FE6E3069,Portugal Industrial 3613,CMP_6CD4B45F3C,Portugal Industrial 4266 Lda,1.0
+CMP_19B6ABB7C9,Italy Industrial 5208 Lda,CMP_8927502BBB,Italy Industrial 5666,1.0
+CMP_19B6ABB7C9,Italy Industrial 5208 Lda,CMP_1C7A698CF5,Spain Industrial 2354 Lda,1.0
+CMP_19B6ABB7C9,Italy Industrial 5208 Lda,CMP_A4DAD80AE6,Spain Industrial 2221 Lda,1.0
+CMP_19B6ABB7C9,Italy Industrial 5208 Lda,CMP_6CD4B45F3C,Portugal Industrial 4266 Lda,1.0
+CMP_7BA1D85352,Italy Industrial 6334 Spa,CMP_716066134F,Spain Industrial 2666,1.0
+CMP_7BA1D85352,Italy Industrial 6334 Spa,CMP_2BC52CE864,Spain Industrial 2013,1.0
+CMP_716066134F,Spain Industrial 2666,CMP_2BC52CE864,Spain Industrial 2013,1.0
+CMP_D5FB415A5B,France Industrial 7799 Lda,CMP_8348CD49CF,Spain Industrial 3000 Spa,0.913
+CMP_D5FB415A5B,France Industrial 7799 Lda,CMP_0AD90D3AF3,Spain Industrial 1716 Lda,1.0
+CMP_D5FB415A5B,France Industrial 7799 Lda,CMP_445DA9B438,Italy Industrial 6168 Lda,1.0
+CMP_8927502BBB,Italy Industrial 5666,CMP_1C7A698CF5,Spain Industrial 2354 Lda,1.0
+CMP_8927502BBB,Italy Industrial 5666,CMP_A4DAD80AE6,Spain Industrial 2221 Lda,1.0
+CMP_8927502BBB,Italy Industrial 5666,CMP_6CD4B45F3C,Portugal Industrial 4266 Lda,1.0
+CMP_1C7A698CF5,Spain Industrial 2354 Lda,CMP_A4DAD80AE6,Spain Industrial 2221 Lda,1.0
+CMP_1C7A698CF5,Spain Industrial 2354 Lda,CMP_6CD4B45F3C,Portugal Industrial 4266 Lda,1.0
+CMP_8348CD49CF,Spain Industrial 3000 Spa,CMP_0AD90D3AF3,Spain Industrial 1716 Lda,0.913
+CMP_8348CD49CF,Spain Industrial 3000 Spa,CMP_445DA9B438,Italy Industrial 6168 Lda,0.913
+CMP_A4DAD80AE6,Spain Industrial 2221 Lda,CMP_6CD4B45F3C,Portugal Industrial 4266 Lda,1.0
+CMP_D34342A5EA,Spain Industrial 1819 Spa,CMP_2DB2B7E9A2,France Industrial 7118 Spa,1.0
+CMP_D34342A5EA,Spain Industrial 1819 Spa,CMP_262401E4D3,Italy Industrial 5777,1.0
+CMP_0AD90D3AF3,Spain Industrial 1716 Lda,CMP_445DA9B438,Italy Industrial 6168 Lda,1.0
+CMP_2DB2B7E9A2,France Industrial 7118 Spa,CMP_262401E4D3,Italy Industrial 5777,1.0
