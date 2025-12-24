@@ -159,7 +159,6 @@ Generates visualizations including:
 
 -   Facilities per company analysis
 
--   Custom dashboards
 
 ## Phase 6: AI Duplicate Detection
 
@@ -232,4 +231,5 @@ The pipeline executes in the following sequence:
 module with a `run()` function. Logs and outputs are automatically
 created in structured folders with timestamped files for
 reproducibility.
+
 
