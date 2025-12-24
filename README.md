@@ -232,4 +232,22 @@ module with a `run()` function. Logs and outputs are automatically
 created in structured folders with timestamped files for
 reproducibility.
 
+## Data Source Disclaimer
+
+This project uses a **synthetic dataset** that mimics the structure of data from **Open Supply Hub (OS Hub)**.
+
+At the time of development, direct access to the full Open Supply Hub dataset was **not publicly available to all users**. For this reason, a synthetic data generation phase (Phase 1) was implemented to simulate realistic company and facility data while preserving the expected schema and relationships.
+
+### Using Real Open Supply Hub Data
+
+If access to real data from https://opensupplyhub.org/ is available, the pipeline can be easily adapted by:
+
+- Replacing **Phase 1 (synthetic data generation)** with a real data ingestion step
+- Ensuring the real dataset follows the same column structure (company name, country, industry, description, facilities, etc.)
+- Keeping all subsequent phases (cleaning, relational structuring, analytics, AI module, and export) unchanged
+
+This design ensures that the pipeline remains **modular, reusable, and scalable**, whether using synthetic or real-world data.
+
+
+
 
