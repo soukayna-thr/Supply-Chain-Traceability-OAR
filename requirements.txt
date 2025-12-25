@@ -16,3 +16,8 @@ pycountry
 rapidfuzz
 sentence_transformers
 torch
+
+## Additional libraries for streamlit app
+streamlit
+streamlit-option-menu
+plotly
